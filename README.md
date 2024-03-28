@@ -8,7 +8,7 @@ các chức năng chính:
 - xem lịch sử đơn hàng
 - thay đổi thông tin cá nhân
   Screenshots:
-  ![image](https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/42d67535-b065-4eec-bb03-5274f85ce1a1)
+  ![image](https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/42d67535-b065-4eec-bb03-5274f85ce1a1 | width=100)
   ![image](https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/167c5149-c618-4473-ab17-b28baf4d946f)
   ![image](https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/b312caa8-4ac1-443e-8eec-8d78f48b93b2)
   ![image](https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/af5cc62f-d975-480c-b6d9-d007beb622e1)
