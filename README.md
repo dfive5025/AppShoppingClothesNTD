@@ -1,5 +1,5 @@
 # AppShoppingClothesNTD
-Ưng dụng mua sắm quần áo online
+Ứng dụng mua sắm quần áo online
 các chức năng chính:
 - login, signup
 - tìm kiếm sản phẩm, xem thông tin sản phẩm
