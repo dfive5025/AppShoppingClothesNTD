@@ -10,7 +10,7 @@ các chức năng chính:
 
 Screenshots:
   
-  <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/42d67535-b065-4eec-bb03-5274f85ce1a1" width=400 height=800> <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/167c5149-c618-4473-ab17-b28baf4d946f" width=500 height=800>
+  <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/76985579-99f7-43a7-a668-0dc40c2f68c9" width=400 height=800> <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/167c5149-c618-4473-ab17-b28baf4d946f" width=500 height=800>
   
   <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/b312caa8-4ac1-443e-8eec-8d78f48b93b2" width=400 height=800> <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/af5cc62f-d975-480c-b6d9-d007beb622e1" width=500 height=800>
 
