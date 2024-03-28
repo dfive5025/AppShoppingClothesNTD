@@ -8,6 +8,8 @@ các chức năng chính:
 - xem lịch sử đơn hàng
 - thay đổi thông tin cá nhân
 
+và 1 WEBSITE quản trị dành cho admin!
+
 Screenshots:
   
   <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/76985579-99f7-43a7-a668-0dc40c2f68c9" width=400 height=800> <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/167c5149-c618-4473-ab17-b28baf4d946f" width=500 height=800>
