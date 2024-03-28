@@ -7,7 +7,8 @@ các chức năng chính:
 - thanh toán (nhận hàng thanh toán hoặc qua ví điện tử )
 - xem lịch sử đơn hàng
 - thay đổi thông tin cá nhân
-  Screenshots:
+
+Screenshots:
   
   <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/42d67535-b065-4eec-bb03-5274f85ce1a1" width=400 height=800> <img src="https://github.com/dfive5025/AppShoppingClothesNTD/assets/96346527/167c5149-c618-4473-ab17-b28baf4d946f" width=500 height=800>
   
